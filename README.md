@@ -1,2 +1,2 @@
-# rlab 1
+# rlab 2
 R labs PJATK
